@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.section{
+	width:;
+	height:;
+	padding:; 
+	margin:960px auto;
+}
+.div{
+	margin: 0 Auto;
+	
+}
+</style>
+</head>
+<body>
+<P> this is a HTML DOC</P>
+<aside>
+
+</aside>
+</body>
+
+<footer>
+<div>
+
+</div>
+</footer>
+</html>
