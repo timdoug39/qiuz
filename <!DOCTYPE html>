@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head><!-- -->
 <style>
 .section{
 	width:;
@@ -15,13 +15,13 @@
 </style>
 </head>
 <body>
-<P> this is a HTML DOC</P>
+<P> this is a HTML DOC</P><!-- -->
 <aside>
 
 </aside>
 </body>
 
-<footer>
+<footer><!-- -->
 <div>
 
 </div>
